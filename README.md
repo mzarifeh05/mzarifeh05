@@ -27,7 +27,7 @@ user experience. Strong problem-solving skills developed through competitive pro
 <img align="left" alt="CSS3" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
 <img align="left" alt="React" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
 <br />
-
+<br />
 **React • JavaScript • Java • C++ • HTML • CSS**
 
 ---
@@ -38,7 +38,7 @@ user experience. Strong problem-solving skills developed through competitive pro
 <img align="left" alt="Git" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
 <br />
-
+<br />
 **React, Git, VS Code**
 
 ---
