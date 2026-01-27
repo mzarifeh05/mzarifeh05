@@ -10,7 +10,6 @@ Software engineering student with a focus on frontend development using React an
 - 🧑‍💻 Software Engineering student at **Al-Zaytoonah University of Jordan**  
 - 💻 Front-End Developer (HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS, Figma)  
 - 🏆 Competitive Programmer (Codeforces handle: **m7md_zarifeh**)  
-- 📍 Based in Amman, Jordan
 
 ---
 
