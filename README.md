@@ -1,9 +1,7 @@
 # 👋 Hi, I’m Mohammed Zarifeh  
 ### 🚀 Software Engineering Student | Front-End Developer | Competitive Programmer
 
-Software engineering student with a focus on frontend development using React and JavaScript.  
-Interested in building clean, responsive user interfaces and applying UI/UX principles to improve  
-user experience. Strong problem-solving skills developed through competitive programming.
+Software engineering student with a focus on frontend development using React and JavaScript. Interested in building clean, responsive user interfaces and applying UI/UX principles to improve user experience. Strong problem-solving skills developed through competitive programming.
 
 ---
 
@@ -12,7 +10,6 @@ user experience. Strong problem-solving skills developed through competitive pro
 - 🧑‍💻 Software Engineering student at **Al-Zaytoonah University of Jordan**  
 - 💻 Front-End Developer (HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS, Figma)  
 - 🏆 Competitive Programmer (Codeforces handle: **m7md_zarifeh**)  
-- 🌱 Always learning new tools and best practices in software development  
 - 📍 Based in Amman, Jordan
 
 ---
@@ -38,10 +35,11 @@ user experience. Strong problem-solving skills developed through competitive pro
 
 ## 🚀 Highlights & Interests
 
-- 💡 Love solving problems on **Codeforces** and practicing competitive programming  
+- 📝 Focused on clean, maintainable code
 - 📌 Building front-end projects to strengthen fundamentals  
 - 📚 Expanding knowledge in Java backend (Spring Boot) & full-stack development  
-- 📝 Focused on clean, maintainable code
+- 💡 Love solving problems on **Codeforces** and practicing competitive programming  
+- 🌱 Always learning new tools and best practices in software development  
 
 ---
 
@@ -54,9 +52,5 @@ user experience. Strong problem-solving skills developed through competitive pro
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohammed-zarifeh-99379117a" target="_blank">
     <img alt="LinkedIn" width="28" src="https://img.icons8.com/color/48/linkedin.png"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/m7md_zarifeh" target="_blank">
-    <img alt="Codeforces" width="28" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png"/>
   </a>
 </p>
