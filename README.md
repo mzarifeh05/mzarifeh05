@@ -3,7 +3,7 @@
 
 Software engineering student with a focus on frontend development using React and JavaScript.
 Interested in building clean, responsive user interfaces and applying UI/UX principles to improve
-user experience. Strong problem-solving skills developed through competitive programming. :contentReference[oaicite:1]{index=1}
+user experience. Strong problem-solving skills developed through competitive programming.
 
 ---
 
