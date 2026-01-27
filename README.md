@@ -10,10 +10,10 @@ user experience. Strong problem-solving skills developed through competitive pro
 ## 📌 About Me
 
 - 🧑‍💻 Software Engineering student at **Al-Zaytoonah University of Jordan**  
-- 💻 Front-End Developer (React JS, JavaScript, HTML, CSS)  
+- 💻 Front-End Developer (HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS, Figma)  
 - 🏆 Competitive Programmer (Codeforces handle: **m7md_zarifeh**)  
 - 🌱 Always learning new tools and best practices in software development  
-- 📍 Based in Amman, Jordan :contentReference[oaicite:2]{index=2}
+- 📍 Based in Amman, Jordan
 
 ---
 
