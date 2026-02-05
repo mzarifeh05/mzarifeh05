@@ -23,12 +23,15 @@ Software engineering student with a focus on frontend development using React an
   <img alt="CSS3" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"/>
   <img alt="JavaScript" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"/>
   <img alt="React" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"/>
+  <img alt="Node.js" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"/>
+  <img alt="Express" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png"/>
+  <img alt="MongoDB" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"/>
   <img alt="Bootstrap" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"/>
   <img alt="Tailwind CSS" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"/>
   <img alt="Figma" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"/>
 </p>
 
-**C / C++ • Java • HTML • CSS • JavaScript • React • Bootstrap • Tailwind CSS • Figma**
+**C / C++ • Java • HTML • CSS • JavaScript • React • Node.js • Express • MongoDB • Bootstrap • Tailwind CSS • Figma**
 
 ---
 
