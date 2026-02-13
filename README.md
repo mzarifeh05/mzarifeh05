@@ -1,15 +1,16 @@
-# 👋 Hi, I’m Mohammed Zarifeh  
-### 🚀 Software Engineering Student | Front-End Developer | Competitive Programmer
+# 👋 Hi, I’m Mohammed Zarifeh
 
-Software engineering student with a focus on frontend development using React and JavaScript. Interested in building clean, responsive user interfaces and applying UI/UX principles to improve user experience. Strong problem-solving skills developed through competitive programming.
+### 🚀 Software Engineering Student | Full-Stack Developer | Competitive Programmer
+
+Software engineering student focused on full-stack development using the MERN stack. Interested in building scalable web applications, clean user interfaces, and secure backend systems. Strong problem-solving skills developed through competitive programming.
 
 ---
 
 ## 📌 About Me
 
-- 🧑‍💻 Software Engineering student at **Al-Zaytoonah University of Jordan**  
-- 💻 Front-End Developer (HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS, Figma)  
-- 🏆 Competitive Programmer (Codeforces handle: **m7md_zarifeh**)  
+* 🧑‍💻 Software Engineering student at **Al-Zaytoonah University of Jordan**
+* 💻 Full-Stack Developer (MERN Stack — MongoDB, Express, React, Node.js)
+* 🏆 Competitive Programmer (Codeforces handle: **m7md_zarifeh**)
 
 ---
 
@@ -26,22 +27,23 @@ Software engineering student with a focus on frontend development using React an
   <img alt="Node.js" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"/>
   <img alt="Express" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png"/>
   <img alt="MongoDB" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"/>
+  <img alt="MySQL" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"/>
   <img alt="Bootstrap" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"/>
   <img alt="Tailwind CSS" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"/>
   <img alt="Figma" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"/>
 </p>
 
-**C / C++ • Java • HTML • CSS • JavaScript • React • Node.js • Express • MongoDB • Bootstrap • Tailwind CSS • Figma**
+**C / C++ • Java • HTML • CSS • JavaScript • React • Node.js • Express • MongoDB • MySQL • Bootstrap • Tailwind CSS • Figma**
 
 ---
 
 ## 🚀 Highlights & Interests
 
-- 📝 Focused on clean, maintainable code
-- 📌 Building front-end projects to strengthen fundamentals  
-- 📚 Expanding knowledge in Java backend (Spring Boot) & full-stack development  
-- 💡 Love solving problems on **Codeforces** and practicing competitive programming  
-- 🌱 Always learning new tools and best practices in software development  
+* 📝 Focused on clean, maintainable code
+* 📌 Building full-stack projects to strengthen frontend and backend skills
+* 📚 Expanding knowledge in backend & scalable architectures
+* 💡 Love solving problems on **Codeforces** and practicing competitive programming
+* 🌱 Always learning new tools and best practices in software development
 
 ---
 
